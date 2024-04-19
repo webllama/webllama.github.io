@@ -1,6 +1,6 @@
 <div align="center">
 
-# WebLlama
+<h1>WebLLaMA</h1>
 
 <img src="/assets/WebLlamaLogo.png" style="width: 400px;" />
 
