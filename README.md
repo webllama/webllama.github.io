@@ -2,8 +2,8 @@
 
 # WebLlama
 
-<img src="/assets/WebLlamaLogo.png" style="width: 400px; "></img>
+<img src="/assets/WebLlamaLogo.png" style="width: 400px;" />
 
 </div>
 
-Coming soon!
+Project page: https://github.com/McGill-NLP/webllama
