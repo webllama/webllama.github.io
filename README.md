@@ -1,5 +1,9 @@
+<div align="center">
+
 # WebLlama
 
-![](assets/WebLlamaLogo.png)
+<img src="/assets/WebLlamaLogo.png" style="width: 400px; "></img>
+
+</div>
 
 Coming soon!
